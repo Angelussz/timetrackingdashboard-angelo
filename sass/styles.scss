@@ -1,0 +1,9 @@
+@use 'init';
+@use 'variables';
+
+main{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid red;
+}
